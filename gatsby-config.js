@@ -2,18 +2,18 @@ module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    siteUrl: 'https://powerful.run',
+    logo: 'https://s3.bmp.ovh/imgs/2023/01/16/c0228bbf6445fa29.jpg',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://twitter.com/realdingxs',
       },
       {
         name: 'About',
-        url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+        url: 'https://github.com/CodeHumanMachine/workouts_page/blob/master/README-CN.md',
       },
     ],
   },
