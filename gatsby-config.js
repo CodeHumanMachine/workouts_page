@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://powerful.run',
+    siteUrl: 'https://futurewei.tech',
     logo: 'https://s3.bmp.ovh/imgs/2023/01/16/c0228bbf6445fa29.jpg',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
